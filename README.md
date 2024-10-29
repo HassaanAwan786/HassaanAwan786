@@ -1,35 +1,49 @@
-# 💻 Мой новый сайт 💻
+# Most Used Languages
 
-<h3 align="left">🛠 Штуки, которые я заюзал:</h3>
+<div align="center">
+    <h2 style="color: #3366ff;">Most Used Languages</h2>
+</div>
 
-<!-- Html -->
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<!-- CSS -->
-<a href="https://www.w3schools.com/css/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<!-- Javascript -->
-<a href="https://www.javascript.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<!-- Bootstrap -->
-<a href="https://getbootstrap.com/" target="_blank"> 
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" width="40" height="40"/></a>
-<!-- Figma -->
-<a href="https://www.figma.com" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a>
-<!-- Visual Studio Code -->
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS code" width="40" height="40"/></a>
-
-
-<h3 align="left">📄 О самом проекте:</h3>
-
-Походил по сайтам людей с гитхаба, и захотел себе тоже крутой сайт, с анимациями и пр. У моего прошлого сайта был единственный минус - он был не крутой, просто минимализм 
-(ещё он использовал старый фреймворк jquery). В этой версии больше красоты (из-за бутстрапа). Также я подглядел много решений у других владельцев сайтов-визиток. 
-Во фронте я, конечно, не шарю, так что сильно не ругайте. Также я переехал на хостинг гитхаба, так как мой прошлый хостер оказался не очень надёжным и платным.😅
-
-
-<h3 align="left">🔗 А, ну и ссылка на сам сайтик:</h3>
-<h2 align="center">💎<a href="https://hud0shnik.github.io/">hud0shnik.github.io</a>💎</h2>
-
- 
+<div style="width: 100%; max-width: 400px; margin: auto; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+    
+  <div style="display: flex; align-items: center; margin: 8px 0;">
+      <span style="width: 50px; font-weight: bold;">CSS</span>
+      <div style="flex: 1; background-color: #ddd; border-radius: 5px; overflow: hidden; height: 10px; margin-left: 10px;">
+          <div style="width: 43.11%; background-color: #7e57c2; height: 100%;"></div>
+      </div>
+      <span style="margin-left: 10px; font-size: 12px; color: #666;">43.11%</span>
+  </div>
+  
+  <div style="display: flex; align-items: center; margin: 8px 0;">
+      <span style="width: 50px; font-weight: bold;">SCSS</span>
+      <div style="flex: 1; background-color: #ddd; border-radius: 5px; overflow: hidden; height: 10px; margin-left: 10px;">
+          <div style="width: 33.37%; background-color: #ec407a; height: 100%;"></div>
+      </div>
+      <span style="margin-left: 10px; font-size: 12px; color: #666;">33.37%</span>
+  </div>
+  
+  <div style="display: flex; align-items: center; margin: 8px 0;">
+      <span style="width: 50px; font-weight: bold;">HTML</span>
+      <div style="flex: 1; background-color: #ddd; border-radius: 5px; overflow: hidden; height: 10px; margin-left: 10px;">
+          <div style="width: 12.77%; background-color: #ff7043; height: 100%;"></div>
+      </div>
+      <span style="margin-left: 10px; font-size: 12px; color: #666;">12.77%</span>
+  </div>
+  
+  <div style="display: flex; align-items: center; margin: 8px 0;">
+      <span style="width: 50px; font-weight: bold;">C#</span>
+      <div style="flex: 1; background-color: #ddd; border-radius: 5px; overflow: hidden; height: 10px; margin-left: 10px;">
+          <div style="width: 8.32%; background-color: #66bb6a; height: 100%;"></div>
+      </div>
+      <span style="margin-left: 10px; font-size: 12px; color: #666;">8.32%</span>
+  </div>
+  
+  <div style="display: flex; align-items: center; margin: 8px 0;">
+      <span style="width: 50px; font-weight: bold;">JavaScript</span>
+      <div style="flex: 1; background-color: #ddd; border-radius: 5px; overflow: hidden; height: 10px; margin-left: 10px;">
+          <div style="width: 2.44%; background-color: #ffeb3b; height: 100%;"></div>
+      </div>
+      <span style="margin-left: 10px; font-size: 12px; color: #666;">2.44%</span>
+  </div>
+  
+</div>
