@@ -32,11 +32,14 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HassaanAwan786&theme=tokyonight" />
 
 
-<h2 align="center">🎯 Languages I Use Most</h2>
+## 📊 GitHub Language Stats
+
+<h2 align="center">📚 Most Used Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassaanAwan786&layout=donut&theme=radical&bg_color=0d1117&title_color=79ff97&hide_border=false" alt="Languages Pie Chart"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassaanAwan786&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&title_color=00ffff&bg_color=0d1117" alt="Top Languages Used by Hassaan Awan"/>
 </p>
+
 
 ---
 
