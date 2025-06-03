@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hassaan Awan</h1>
-<h3 align="center">Software Developer | Full Stack Enthusiast | Open Source Contributor</h3>
+<h3 align="center">Software Engineer | Full Stack Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=435&lines=Software+Engineer;Full+Stack+Web+Developer;React+%7C+Node+%7C+Flutter+Dev;Open+Source+%7C+Tech+Learner" alt="Typing SVG" />
@@ -29,7 +29,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassaanawan&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HassaanAwan786&theme=tokyonight" />
 
 ---
 
