@@ -31,6 +31,12 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HassaanAwan786&theme=tokyonight" />
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassaanAwan786&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+
+
 ---
 
 📜 **Certifications & Achievements**
