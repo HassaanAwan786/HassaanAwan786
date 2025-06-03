@@ -32,7 +32,11 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HassaanAwan786&theme=tokyonight" />
 
 
+<h2 align="center">🎯 Languages I Use Most</h2>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassaanAwan786&layout=donut&theme=radical&bg_color=0d1117&title_color=79ff97&hide_border=false" alt="Languages Pie Chart"/>
+</p>
 
 ---
 
@@ -56,7 +60,6 @@
 ⚡ **Fun Fact**  
 When I’m not writing code, I’m exploring CLI tools or building random UIs for fun!
 
-## Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HassaanAwan786&layout=compact&theme=radical&hide_border=true)
+
 
