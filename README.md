@@ -42,18 +42,23 @@
 ---
 
 📜 **Certifications & Achievements**
-- 🎓 Full Stack Web Development Bootcamp (2024)
-- 💻 Google Cloud Fundamentals (2023)
-- 🏆 Hacktoberfest Contributor – Open Source Contributions
-- 🏅 Academic Scholarship Awardee – University of Excellence
+- 🎓 BS Software Engineering 2024
+- 🏅 Bronze Medalist batch 203
+- 💻 Introduction to Generative AI{Google Cloud} 2025
+- 💻 Agile Project Management {Google}
+- 💻 Project Managment {Oxford Home Study Center OHSC} 2024
+- 🏆 ACM ICPC ASIA-TOPI REGIONAL ONLINE COMPETITION 2024
+- 🏆 VisioSpark Debugging Competition 2022 (Runner up}
+- 🏆 Hackathon Medical problem solution using Machine Learning
+- Check More on Linkedin or CV
 
 ---
 
 📢 **Connect with me**
 
-- ✉️ Email: hassaanawan.dev@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/hassaanawan/)  
-- 💻 [GitHub](https://github.com/hassaanawan)  
+- ✉️ Email: hassaanawan777@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/hassaan712/)  
+- 💻 [GitHub](https://github.com/HassaanAwan786/HassaanAwan786)  
 - 📑 [Medium Blog](https://medium.com/@hassaanawan)
 
 ---
