@@ -8,9 +8,12 @@
 ---
 
 🧠 **Recent Projects**  
+- 🚀 [More-On-Life(2025)](#):An Health Monitoring application built in Flutter and Dart with Firebase
+- 🎨 [Portfolio Website(2025)](#): Personal developer portfolio using HTML,CSS,React javaScript.
+- 🚀 [BackCaps Logistics(2024)](#):Final year project/Automation of my family business,An mobile Application targeting HTV Sector with tons of features.
 - 🔮 [Realtime Chat App](#): Built with React.js, Node.js, Socket.IO & MongoDB  
-- 🎨 [Portfolio Website](#): Personal developer portfolio using React & TailwindCSS  
-- 🚀 [Flutter Task App](#): A simple task manager built in Flutter and Dart
+- 
+
 
 ---
 
