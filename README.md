@@ -8,8 +8,10 @@
 ---
 
 🧠 **Recent Projects**  
+- 🎨 [Image Generator (2026)](#):Ai based project using HTML,CSS,React,javaScript,MongoDB,ExpressJS and Nodejs.
 - 🚀 [More-On-Life(2025)](#):An Health Monitoring application built in Flutter and Dart with Firebase
 - 🎨 [Portfolio Website(2025)](#): Personal developer portfolio using HTML,CSS,React javaScript.
+-  🎨 [Weather Website(2025)](#): Used weather API made website using HTML,CSS,React javaScript.
 - 🚀 [BackCaps Logistics(2024)](#):Final year project/Automation of my family business,An mobile Application targeting HTV Sector with tons of features.
 
 
@@ -36,7 +38,9 @@
 <h2 align="left">📚 Most Used Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassaanAwan786&layout=donut&theme=radical&bg_color=0d1117&title_color=79ff97&hide_border=false" alt="Languages Pie Chart"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassaanAwan786&layout=donut&theme=radical&bg_color=0d1117&title_color=79ff97&hide_border=false"
+    
+    alt="Languages Pie Chart"/>
 </p>
 
 
