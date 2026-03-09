@@ -38,7 +38,7 @@
 <h2 align="left">📚 Most Used Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassaanAwan786&layout=donut&theme=radical&bg_color=0d1117&title_color=79ff97&hide_border=false"
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HassaanAwan786&theme=radical"
     
     alt="Languages Pie Chart"/>
 </p>
