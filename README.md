@@ -8,6 +8,8 @@
 ---
 
 🧠 **Recent Projects**  
+🎨 [Hackathon_Score determiner (2026)](#):Proposed & Implemented zero cost Software solution for CUST University Software Engineering department,by intergating multiple technologies including Pyhton,Excel Google forms.
+🎨 [mNaeem Fitness (2026)](#):Provided Web solution to gym coach using HTML,CSS,React,javaScript,MongoDB,ExpressJS and Nodejs.
 - 🎨 [Image Generator (2026)](#):Ai based project using HTML,CSS,React,javaScript,MongoDB,ExpressJS and Nodejs.
 - 🚀 [More-On-Life(2025)](#):An Health Monitoring application built in Flutter and Dart with Firebase
 - 🎨 [Portfolio Website(2025)](#): Personal developer portfolio using HTML,CSS,React javaScript.
