@@ -1,19 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=M%20Hassaan%20Awan&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20%26%20Mobile%20Developer&descAlignY=58&descSize=16" width="100%" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Full+Stack+Web+Developer+(MERN);Flutter+%26+Dart+Mobile+Developer;Building+AI-powered+products;Open+Source+Contributor" alt="Typing SVG" />
-</a>
-
-<p>
-  <a href="mailto:hassaanawan777@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/hassaan712/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@hassaanawan"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=HassaanAwan786&style=flat-square&color=38BDF8&label=Profile+Views" />
-</p>
-
-</div>
+<div align="center"> <img src="./assets/header.svg" width="100%" alt="M Hassaan Awan" /> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Full+Stack+Web+Developer+(MERN);Flutter+%26+Dart+Mobile+Developer;Building+AI-powered+products;Open+Source+Contributor" alt="Typing SVG" /> </a> <p> <a href="mailto:hassaanawan777@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/hassaan712/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@hassaanawan"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" /></a> <img src="https://komarev.com/ghpvc/?username=HassaanAwan786&style=flat-square&color=38BDF8&label=Profile+Views" /> </p> </div>
 
 ---
 
